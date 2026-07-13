@@ -5,7 +5,7 @@ description: OKLCH color space for web projects. Convert hex/rgb/hsl to oklch, g
 
 # OKLCH Colors
 
-OKLCH is a perceptually uniform color space where the numbers actually mean what you think they mean. Most color problems in CSS — broken palettes, failing contrast, hue drift — come from using color spaces that don't match how we see. OKLCH fixes the model so the tools work. To explore interactively, visit [oklch.fyi](https://oklch.fyi).
+OKLCH is a perceptually uniform color space where the numbers actually mean what you think they mean. Most color problems in CSS — broken palettes, failing contrast, hue drift — come from using color spaces that don't match how we see. OKLCH fixes the model so the tools work.
 
 ## Quick Reference
 

@@ -16,5 +16,3 @@ CSS-in-JS) em vez de impor um.
 Diretórios de skill usam o prefixo `labs-design-`. Renomear uma skill = renomear o
 diretório e o `name` do frontmatter juntos. Ao mudar o escopo de uma skill, atualize as
 trigger keywords da description.
-
-Este repositório é um rebrand (MIT) das skills de Jakub Krehel — ver README e LICENSE.

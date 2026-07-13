@@ -19,11 +19,8 @@ npx skills add DaniloAmaralUX/skills
 
 ## Créditos
 
-Rebrand 1:1 (para estudo e uso próprio) das skills
-[better-ui, better-typography e better-colors](https://github.com/jakubkrehel/skills) de
-**Jakub Krehel** ([jakub.kr](https://jakub.kr)), sob licença MIT — copyright original
-preservado em [LICENSE](LICENSE). Todo o mérito do conteúdo é do autor original.
+Inspired by [Jakub Krehel](https://jakub.kr).
 
-Mais em [danilo.amaral — Labs Design](https://github.com/DaniloAmaralUX).
+Mais em [Labs Design](https://github.com/DaniloAmaralUX).
 
-MIT
+MIT — ver [LICENSE](LICENSE).
