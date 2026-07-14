@@ -13,6 +13,6 @@ Princípios são prescritivos e específicos: propriedades CSS exatas, valores e
 agente a respeitar o sistema de estilo do projeto hospedeiro (Tailwind vs. CSS puro vs.
 CSS-in-JS) em vez de impor um.
 
-Diretórios de skill usam o prefixo `labs-design-`. Renomear uma skill = renomear o
+Diretórios de skill usam o prefixo `compound-design-`. Renomear uma skill = renomear o
 diretório e o `name` do frontmatter juntos. Ao mudar o escopo de uma skill, atualize as
 trigger keywords da description.

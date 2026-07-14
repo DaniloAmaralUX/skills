@@ -13,9 +13,9 @@ npx skills add DaniloAmaralUX/skills
 
 | Skill | O que faz |
 | --- | --- |
-| **labs-design-ui** | Deixa a interface polida: hit areas, sombras, radius concêntrico e as micro-interações que fazem a UI parecer certa. |
-| **labs-design-type** | Resolve a tipografia: escala, espaçamento, fontes variáveis, OpenType, quebra de linha e truncamento. |
-| **labs-design-color** | Cores que passam: OKLCH, geração de paletas, contraste que não falha e gamut sob controle. |
+| **compound-design-ui** | Deixa a interface polida: hit areas, sombras, radius concêntrico e as micro-interações que fazem a UI parecer certa. |
+| **compound-design-type** | Resolve a tipografia: escala, espaçamento, fontes variáveis, OpenType, quebra de linha e truncamento. |
+| **compound-design-color** | Cores que passam: OKLCH, geração de paletas, contraste que não falha e gamut sob controle. |
 
 ## Créditos
 
