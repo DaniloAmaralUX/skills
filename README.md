@@ -16,6 +16,7 @@ npx skills add DaniloAmaralUX/skills
 | **compound-design-ui** | Deixa a interface polida: hit areas, sombras, radius concêntrico e as micro-interações que fazem a UI parecer certa. |
 | **compound-design-type** | Resolve a tipografia: escala, espaçamento, fontes variáveis, OpenType, quebra de linha e truncamento. |
 | **compound-design-color** | Cores que passam: OKLCH, geração de paletas, contraste que não falha e gamut sob controle. |
+| **compound-design-audit** | Audita interfaces contra princípios de UX: hierarquia, estilo visual, acessibilidade, navegação, carga cognitiva — com relatório priorizado. |
 
 ## Licença
 
